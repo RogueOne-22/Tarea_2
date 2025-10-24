@@ -96,7 +96,7 @@ CROSSOVER_RATE = 0.85      # Crossover 85%
 ## 3️⃣ 🏎️ Robot de Carreras con IA Híbrida
 
 ### 📌 Descripción
-Control autónomo de robot en carreras usando **GA + PSO + ACO** en arquitectura híbrida contra 8 oponentes.
+Control autónomo de robot en carreras usando **GA + PSO + ACO**  contra 8 oponentes.
 
 ### 🎯 Algoritmos Combinados
 
@@ -146,11 +146,6 @@ distancia < 25 && x_robot > x_oponente
 | Principal | Pista + Feromonas + Vehículos |
 | Info | Parámetros + Métricas + Estado |
 
-### 🚀 Uso Rápido
-```bash
-python robot_racing_simulator.py
-# Animación automática en tiempo real
-```
 ---
 
 ## 🔬 Comparación de Algoritmos
